@@ -9,3 +9,4 @@ git add .
 git commit -m 'Initial GitHub pages site with Jekyll'
 $ git remote add origin https://github.com/USER/REPOSITORY.git
 $ git push -u origin DTI.COM
+gh repo clone joe-habel/YouTube-View-Bot
