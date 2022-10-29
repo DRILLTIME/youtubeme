@@ -1,12 +1,1 @@
-dti.com
-jekyll-theme-minimal
-DTI.COM HOME PAGE
-Bookmark this to keep an eye on my project updates!
-$ jekyll new --skip-bundle .
-# Creates a Jekyll site in the current directory
-gem "github-pages", "~> GITHUB-PAGES-VERSION", group: :jekyll_plugins
-git add .
-git commit -m 'Initial GitHub pages site with Jekyll'
-$ git remote add origin https://github.com/USER/REPOSITORY.git
-$ git push -u origin DTI.COM
-gh repo clone joe-habel/YouTube-View-Bot
+dti.org
